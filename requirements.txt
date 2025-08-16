@@ -1,3 +1,4 @@
+ipykernel==6.29.5
 ipywidgets
 pandas
 matplotlib
